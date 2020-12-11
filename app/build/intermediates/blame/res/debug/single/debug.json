@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable_coco_shape.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\drawable\\coco_shape.xml"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_back.png.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\drawable-xhdpi\\back.png"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable_underline.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\drawable\\underline.xml"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\layout_act_main.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\layout\\act_main.xml"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shape_loading_dialog.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\drawable\\shape_loading_dialog.xml"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\layout_act_webview.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\layout\\act_webview.xml"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_spinner.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\drawable\\bg_spinner.xml"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_setting.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\layout\\dialog_setting.xml"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\layout_bluetooth_device_list_item.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\layout\\bluetooth_device_list_item.xml"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tianxian_shape.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\drawable\\tianxian_shape.xml"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\layout_xml_head.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\layout\\xml_head.xml"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_logo.png.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\drawable-xhdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable_keyboard.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\drawable\\keyboard.xml"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_page_indicator_focused.png.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\drawable-xhdpi\\page_indicator_focused.png"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_page_indicator_unfocused.png.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\drawable-xhdpi\\page_indicator_unfocused.png"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_button2.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\drawable\\bg_button2.xml"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\xml_network_security_config.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\xml\\network_security_config.xml"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\layout_act_start.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\layout\\act_start.xml"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable_round_10_white_bg.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\drawable\\round_10_white_bg.xml"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_loading.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\layout\\dialog_loading.xml"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_ie.png.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\drawable\\logo_ie.png"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\layout_quanlity_change.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\layout\\quanlity_change.xml"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable_list_item_bg.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\drawable\\list_item_bg.xml"
+    },
+    {
+        "merged": "F:\\GitShujuku\\BluetoothWeight\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_button.xml.flat",
+        "source": "F:\\GitShujuku\\BluetoothWeight\\app\\src\\main\\res\\drawable\\bg_button.xml"
+    }
+]

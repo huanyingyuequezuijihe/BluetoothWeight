@@ -1,0 +1,133 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.zt.bw"
+4    android:versionCode="2"
+5    android:versionName="1.2.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:7:5-67
+11-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:7:22-64
+12    <uses-permission android:name="android.permission.BLUETOOTH" />
+12-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:9:5-68
+12-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:9:22-65
+13    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+13-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:10:5-74
+13-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:10:22-71
+14    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+14-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:11:5-81
+14-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:11:22-78
+15    <!-- 往SDCard写入数据权限 -->
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:13:5-80
+16-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:13:22-78
+17    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+17-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:14:5-79
+17-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:14:22-77
+18    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+18-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:16:5-78
+18-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:16:22-76
+19    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+19-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:17:5-79
+19-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:17:22-76
+20    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+20-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:18:5-81
+20-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:18:22-78
+21
+22    <application
+22-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:19:5-49:19
+23        android:name="com.zt.bw.MyApp"
+23-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:20:9-39
+24        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+24-->[com.android.support:support-compat:28.0.0] C:\Users\WangYang\.gradle\caches\transforms-2\files-2.1\09c1f5634c674c46b74176ad3d1ddced\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+25        android:debuggable="true"
+26        android:icon="@drawable/logo_ie"
+26-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:21:9-41
+27        android:label="@string/app_name"
+27-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:22:9-41
+28        android:networkSecurityConfig="@xml/network_security_config"
+28-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:23:9-69
+29        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+29-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:24:9-67
+30
+31        <!-- <activity android:name="com.zt.bw.MainActivity" -->
+32        <!-- android:label="@string/app_name" -->
+33        <!-- > -->
+34        <!-- <intent-filter> -->
+35        <!-- <action android:name="android.intent.action.MAIN" /> -->
+36        <!-- <category android:name="android.intent.category.LAUNCHER" /> -->
+37        <!-- </intent-filter> -->
+38        <!-- </activity> -->
+39        <activity android:name="com.zt.bw.WebviewActivity" />
+39-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:34:9-52
+39-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:34:19-50
+40        <activity
+40-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:35:9-42:20
+41            android:name="com.zt.bw.StartActivity"
+41-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:35:19-57
+42            android:label="@string/app_name" >
+42-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:36:13-45
+43            <intent-filter>
+43-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:38:13-41:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:39:17-69
+44-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:39:25-66
+45
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:40:17-77
+46-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:40:27-74
+47            </intent-filter>
+48        </activity>
+49        <activity android:name="com.zt.bw.MainActivity" />
+49-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:43:9-58
+49-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:43:19-56
+50
+51        <receiver android:name="com.zt.bw.MyReceiver" >
+51-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:44:9-48:20
+51-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:44:19-45
+52            <intent-filter>
+52-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:45:13-47:29
+53                <action android:name="android.intent.action.BOOT_COMPLETED" />
+53-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:46:17-78
+53-->F:\GitShujuku\BluetoothWeight\app\src\main\AndroidManifest.xml:46:25-76
+54            </intent-filter>
+55        </receiver>
+56
+57        <activity
+57-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\WangYang\.gradle\caches\transforms-2\files-2.1\85428232f4bdbd3d455398ae3b315b1c\permission-2.0.0-rc11\AndroidManifest.xml:25:9-30:75
+58            android:name="com.yanzhenjie.permission.PermissionActivity"
+58-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\WangYang\.gradle\caches\transforms-2\files-2.1\85428232f4bdbd3d455398ae3b315b1c\permission-2.0.0-rc11\AndroidManifest.xml:26:13-72
+59            android:configChanges="keyboardHidden|orientation|screenSize"
+59-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\WangYang\.gradle\caches\transforms-2\files-2.1\85428232f4bdbd3d455398ae3b315b1c\permission-2.0.0-rc11\AndroidManifest.xml:27:13-74
+60            android:launchMode="standard"
+60-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\WangYang\.gradle\caches\transforms-2\files-2.1\85428232f4bdbd3d455398ae3b315b1c\permission-2.0.0-rc11\AndroidManifest.xml:28:13-42
+61            android:theme="@style/Permission.Theme.Activity"
+61-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\WangYang\.gradle\caches\transforms-2\files-2.1\85428232f4bdbd3d455398ae3b315b1c\permission-2.0.0-rc11\AndroidManifest.xml:29:13-61
+62            android:windowSoftInputMode="stateHidden|stateAlwaysHidden" />
+62-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\WangYang\.gradle\caches\transforms-2\files-2.1\85428232f4bdbd3d455398ae3b315b1c\permission-2.0.0-rc11\AndroidManifest.xml:30:13-72
+63
+64        <provider
+64-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\WangYang\.gradle\caches\transforms-2\files-2.1\85428232f4bdbd3d455398ae3b315b1c\permission-2.0.0-rc11\AndroidManifest.xml:32:9-40:20
+65            android:name="com.yanzhenjie.permission.FileProvider"
+65-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\WangYang\.gradle\caches\transforms-2\files-2.1\85428232f4bdbd3d455398ae3b315b1c\permission-2.0.0-rc11\AndroidManifest.xml:33:13-66
+66            android:authorities="com.zt.bw.file.path.share"
+66-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\WangYang\.gradle\caches\transforms-2\files-2.1\85428232f4bdbd3d455398ae3b315b1c\permission-2.0.0-rc11\AndroidManifest.xml:34:13-67
+67            android:exported="false"
+67-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\WangYang\.gradle\caches\transforms-2\files-2.1\85428232f4bdbd3d455398ae3b315b1c\permission-2.0.0-rc11\AndroidManifest.xml:35:13-37
+68            android:grantUriPermissions="true" >
+68-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\WangYang\.gradle\caches\transforms-2\files-2.1\85428232f4bdbd3d455398ae3b315b1c\permission-2.0.0-rc11\AndroidManifest.xml:36:13-47
+69            <meta-data
+69-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\WangYang\.gradle\caches\transforms-2\files-2.1\85428232f4bdbd3d455398ae3b315b1c\permission-2.0.0-rc11\AndroidManifest.xml:37:13-39:65
+70                android:name="android.support.FILE_PROVIDER_PATHS"
+70-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\WangYang\.gradle\caches\transforms-2\files-2.1\85428232f4bdbd3d455398ae3b315b1c\permission-2.0.0-rc11\AndroidManifest.xml:38:17-67
+71                android:resource="@xml/permission_file_paths" />
+71-->[com.yanzhenjie:permission:2.0.0-rc11] C:\Users\WangYang\.gradle\caches\transforms-2\files-2.1\85428232f4bdbd3d455398ae3b315b1c\permission-2.0.0-rc11\AndroidManifest.xml:39:17-62
+72        </provider>
+73    </application>
+74
+75</manifest>
